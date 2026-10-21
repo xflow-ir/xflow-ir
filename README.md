@@ -12,7 +12,7 @@
 
 <a href="https://xflow.ir/"><img src="https://img.shields.io/badge/Website-xflow.ir-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1e1b4b"/></a>
 <a href="https://xflow.ir/products"><img src="https://img.shields.io/badge/Products-AI%20Agents-a78bfa?style=for-the-badge&logo=openai&logoColor=white&labelColor=1e1b4b"/></a>
-<a href="mailto:hello@xflow.ir"><img src="https://img.shields.io/badge/Email-hello@xflow.ir-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b"/></a>
+<a href="mailto:xflow.ir@gmail.com"><img src="https://img.shields.io/badge/Email-xflow.ir@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b"/></a>
 <img src="https://img.shields.io/badge/Status-Live-22c55e?style=for-the-badge&labelColor=1e1b4b"/>
 
 <br/><br/>
@@ -178,7 +178,7 @@ Security, scalability and SLA.
 | | |
 |:--|:--|
 | 🌐 **Website** | [xflow.ir](https://xflow.ir/) |
-| 📧 **Email** | [hello@xflow.ir](mailto:hello@xflow.ir) |
+| 📧 **Email** | [xflow.ir@gmail.com](mailto:xflow.ir@gmail.com) |
 | 📍 **Address** | Gorgan Innovation Factory, 1st Floor, Unit 410, Gorgan, Iran |
 
 <br/>
